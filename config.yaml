@@ -1,0 +1,5 @@
+port: "8080"
+openai_key: "your-openai-api-key-here"
+minio_url: "localhost:9000"
+minio_key: "your-minio-access-key"
+minio_secret: "your-minio-secret-key" 
