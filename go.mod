@@ -6,7 +6,7 @@ require (
 	github.com/danielgtaylor/huma/v2 v2.10.0
 	github.com/go-chi/chi/v5 v5.0.12
 	github.com/minio/minio-go/v7 v7.0.45
-	github.com/sashabaranov/go-openai v1.16.0
+	github.com/sashabaranov/go-openai v1.40.5
 	github.com/spf13/viper v1.20.1
 )
 
