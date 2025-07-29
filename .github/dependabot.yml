@@ -1,0 +1,15 @@
+version: 2
+updates:
+  - package-ecosystem: "gomod"
+    directory: "/"
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 3
+    groups:
+      web-frameworks:
+        patterns:
+          - "github.com/go-chi/chi*"
+          - "github.com/danielgtaylor/huma*"
+        update-types:
+          - "minor"
+          - "patch" 
