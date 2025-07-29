@@ -1,4 +1,4 @@
-# test_renovate_go
+# test_dependabot_go
 
 A simple Go application demonstrating the usage of VIPER, HUMA, OpenAI client, and MinIO libraries. This application is designed for testing dependency management and upgrades.
 
